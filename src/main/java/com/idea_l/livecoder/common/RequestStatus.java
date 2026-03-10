@@ -1,0 +1,18 @@
+package com.idea_l.livecoder.common;
+
+import lombok.Getter;
+
+@Getter
+public enum RequestStatus {
+    PENDING("pending"),
+    ACCEPTED("accepted"),
+    DECLINED("declined"),
+    CANCELED("canceled");
+
+    private final String value;
+
+    RequestStatus(String value) {
+        this.value = value;
+    }
+
+}
