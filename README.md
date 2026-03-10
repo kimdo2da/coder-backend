@@ -316,6 +316,7 @@ src/main/java/com/idea_l/livecoder
     ├── CollabCodeReply
     └── CollabInvite
 ---
+
 프로젝트를 통해 배운 점
 이 프로젝트를 통해 단순 CRUD 수준을 넘어서,
 실제 서비스형 백엔드를 구성할 때 필요한 여러 요소를 경험할 수 있었습니다.
