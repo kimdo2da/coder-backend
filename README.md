@@ -243,7 +243,7 @@ IntelliJ IDEA
 ## 프로젝트 구조
 
 실제 코드 기준 패키지 구조는 아래와 같습니다.
-
+```text
 src/main/java/com/idea_l/livecoder
 ├── common
 │   ├── CorsConfig
