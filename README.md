@@ -244,7 +244,6 @@ IntelliJ IDEA
 
 실제 코드 기준 패키지 구조는 아래와 같습니다.
 
-```text
 src/main/java/com/idea_l/livecoder
 ├── common
 │   ├── CorsConfig
@@ -317,7 +316,7 @@ src/main/java/com/idea_l/livecoder
     └── CollabInvite
 ---
 
-## 프로젝트를 통해 배운 점
+### 프로젝트를 통해 배운 점
 이 프로젝트를 통해 단순 CRUD 수준을 넘어서,
 실제 서비스형 백엔드를 구성할 때 필요한 여러 요소를 경험할 수 있었습니다.
 특히 아래 부분을 많이 배웠습니다.
@@ -330,7 +329,7 @@ Native Query를 활용한 홈 데이터 구성
 Docker 기반 코드 채점 구조 이해
 DB 스키마와 API 명세를 함께 맞춰 가는 과정
 ---
-## 회고
+### 회고
 LiveCoder는 내가 진행한 프로젝트 중에서도
 기능 범위가 넓고 도메인 수가 많은 편에 속하는 프로젝트였습니다.
 단순히 API 몇 개를 만드는 수준이 아니라,
